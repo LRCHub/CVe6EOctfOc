@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "A World at Peace",
+  "base_artist": "Ibrahim",
+  "createdAt": "2026-03-19T13:15:19.229803Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "World At Peace (Radio Version)",
+      "artist": "Josh & Wesz",
+      "has_synced": true,
+      "path": "select/01_World_At_Peace_(Radio_Version)_Josh_&_Wesz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "World at Peace - Radio Edit",
+      "artist": "Josh & Wesz",
+      "has_synced": true,
+      "path": "select/02_World_at_Peace_-_Radio_Edit_Josh_&_Wesz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "World At Peace (Radio Edit)",
+      "artist": "Josh",
+      "has_synced": true,
+      "path": "select/03_World_At_Peace_(Radio_Edit)_Josh.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "World at Peace",
+      "artist": "Josh & Wesz",
+      "has_synced": true,
+      "path": "select/04_World_at_Peace_Josh_&_Wesz.lrc"
+    }
+  ]
+}
